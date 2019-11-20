@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+a {
+    color: black;
+}
+html, body {
+    min-height: 100vh;
+    
+}
+
+.load-style {
+    text-align: center;
+    font-size: 24px;
+}
+
+.red {
+    color: darkred;
+    text-decoration: underline black;
+    
+}
+
+.topStyle {
+    background: gray;
+    color: white;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 0 
+}
+
+
